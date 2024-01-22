@@ -1,5 +1,8 @@
 
 Namaste!! i am shiva kumar,currently pursing my bachelor's degree in information technology from Nizam college (Osmania university).
+
+
+
 This Flutter mobile app was developed as an assignment for the position of Intern - Mobile Application Developer. The goal was to create an intuitive user interface using Flutter, incorporating the provided JSON data and adhering to the design depicted in the interface screenshot.
 
 Key Features:
