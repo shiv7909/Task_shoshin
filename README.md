@@ -10,7 +10,10 @@ Key Features:
 #JSON Data Integration: The app seamlessly integrates JSON data to populate relevant information, ensuring dynamic content updates.    
 #State Management: Employed the Getx package for efficient state management, enhancing the app's performance and responsiveness.     
 #Responsive Design: Ensured the app's visual appeal across various screen sizes, implementing a responsive layout for an optimal user experience.     
-#Customization: Enhanced visual aesthetics through the use of custom fonts, colors, and icons, adding a personalized touch to the UI.    
+#Customization: Enhanced visual aesthetics through the use of custom fonts, colors, and icons, adding a personalized touch to the UI.
+
+packages used:
+
 
 Additional room for update (if given more time):
 
