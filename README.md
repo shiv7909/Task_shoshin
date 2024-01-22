@@ -13,7 +13,11 @@ Key Features:
 #Customization: Enhanced visual aesthetics through the use of custom fonts, colors, and icons, adding a personalized touch to the UI.
 
 packages used:
-
+  cupertino_icons: ^1.0.2  
+  carousel_slider: ^4.2.1  
+  get: ^4.6.6  
+  flutter_star: ^1.2.0  
+  url_launcher: ^6.2.3n    
 
 Additional room for update (if given more time):
 
