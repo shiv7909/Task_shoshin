@@ -17,4 +17,4 @@ Additional room for update (if given more time):
 #shimmer effect : loading effect if files are being loaded from the backend    
 #staggered animation: adding animation to the listview
 
-Link to Repository: [Your GitHub Repository Link]
+
